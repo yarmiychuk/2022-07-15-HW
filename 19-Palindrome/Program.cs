@@ -10,7 +10,7 @@ bool IsPolindrome(int number)
 
 bool IsCorrectInput(int number)
 {
-    return(number >= 10000 && number <= 99999);
+    return (number >= 10000 && number <= 99999);
 }
 
 string GetTextResult(int number)
